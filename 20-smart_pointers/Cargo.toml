@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "box_pointer",
+    "deref_trait",
+    "drop_trait",
+    "rc_pointer",
+    "ref_cell_pointer"
+]
