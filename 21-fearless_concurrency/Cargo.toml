@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "threads",
-    "message_passing",
-    "shared_state"
-]

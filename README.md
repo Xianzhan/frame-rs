@@ -1,3 +1,3 @@
-# study-rs
+# frame-rs
 
 Learn the rust programming language.
